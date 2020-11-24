@@ -1,4 +1,4 @@
-## Revenue-Generating-App-Profiles-for-the-App-store-and-Google-Play-Markets
+## Revenue-Generating-App-Profiles-for-App-store-and-Google-Play-Markets
 
 Project Description:<br> 
 Appcafe is a company that builds Android and IOS mobile apps.The apps are made available on Google Play and App store.<br>
