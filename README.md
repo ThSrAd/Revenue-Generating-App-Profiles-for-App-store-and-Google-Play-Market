@@ -17,4 +17,4 @@ Appcafe is a company that builds Android and IOS mobile apps.The apps are made a
 
 <hr>
 
-[Data Analysis App & Google Play store](Data Analysis App & Google Play store data.ipynb)
+[Data Analysis App & Google Play store](https://github.com/ThSrAd/Revenue-Generating-App-Profiles-for-App-store-and-Google-Play-Market/blob/main/Data%20Analysis%20App%20%26%20Google%20Play%20store%20data.ipynb)
