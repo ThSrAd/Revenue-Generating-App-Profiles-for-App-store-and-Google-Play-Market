@@ -2,12 +2,12 @@
 Author: Thanujhaa Sriee (email: thanujhaa.sriee@gmail.com)
 <hr height: 5px>
 
-### <span style="color:purple">Project Description:</span>
+###Project Description:
 Appcafe is a company that builds Android and IOS mobile apps.The apps are made available on Google Play and App store.All the apps built by the company are free to download and install.The main source of revenue is from the in-app ads.The revenue generated is in direct correlation to the number of users who use our app.
 
-### <span style="color:purple"> Goal for this project is to analyze data and help our developers understand what type of apps are likely to attract more users.</span>
+###Goal for this project is to analyze data and help our developers understand what type of apps are likely to attract more users.</span>
 
-### <span style="color:purple">Table of Contents</span>
+###Table of Contents
 * About dataset
 * Exploring the Data
 * Most Common Apps by Genre
@@ -15,7 +15,7 @@ Appcafe is a company that builds Android and IOS mobile apps.The apps are made a
 * Most Popular Apps by Genre on Google Play
 * Conclusion/Findings
 
-### <span style="color:purple">Exploring the Data</span>
+###Exploring the Data
 As of September 2018, there were approximately 2 million iOS apps available on the App Store, and 2.1 million Android apps on Google Play.
 
 Collecting data for over four million apps requires a significant amount of time and money, so we'll try to analyze an existing sample of data. 
