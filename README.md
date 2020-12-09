@@ -1,6 +1,6 @@
 ## Revenue Generating App Profiles for App store and Google Play Markets
 Author: Thanujhaa Sriee (email: thanujhaa.sriee@gmail.com)</BR>
-Tiny URL: https://tinyurl.com/Fleet-Monitoring
+Tiny URL:https://tinyurl.com/App-Market-Analysis 
 <hr height: 5px>
 
 ### Project Description:
